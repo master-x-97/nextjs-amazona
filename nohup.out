@@ -1,0 +1,22 @@
+[90m[main 2025-06-19T18:35:16.073Z][0m updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/0.48.9/588af23060fd9dc0e1166d40f266a8a52da172b3d1fc7f10acbcc2bf664d5d0a/stable
+[90m[main 2025-06-19T18:35:16.075Z][0m update#setState idle
+[812202:0619/213518.971367:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+[812202:0619/213518.972985:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 2 times!
+[812202:0619/213520.453735:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 3 times!
+[90m[main 2025-06-19T18:35:46.076Z][0m update#setState checking for updates
+[90m[main 2025-06-19T18:35:46.245Z][0m update#setState ready
+Opening in existing browser session.
+[812154:0619/215142.380283:ERROR:browser_main_loop.cc(278)] GLib-GObject: ../../../gobject/gsignal.c:2685: instance '0x32f4026dd990' has no handler with id '2753'
+Opening in existing browser session.
+Opening in existing browser session.
+Opening in existing browser session.
+Opening in existing browser session.
+[90m[main 2025-06-19T19:16:15.985Z][0m Extension host with pid 812315 exited with code: 0, signal: unknown.
+[812154:0619/221632.318193:ERROR:browser_main_loop.cc(278)] GLib-GObject: ../../../gobject/gsignal.c:2685: instance '0x32f400aaf590' has no handler with id '3034'
+[812154:0619/221640.581821:ERROR:browser_main_loop.cc(278)] GLib-GObject: ../../../gobject/gsignal.c:2685: instance '0x32f4018ba010' has no handler with id '3277'
+Opening in existing browser session.
+[812154:0619/221926.478085:ERROR:browser_main_loop.cc(278)] GLib-GObject: ../../../gobject/gsignal.c:2685: instance '0x32f4018ba010' has no handler with id '3620'
+Opening in existing browser session.
+[812154:0619/222041.530034:ERROR:browser_main_loop.cc(278)] GLib-GObject: ../../../gobject/gsignal.c:2685: instance '0x32f4018ba010' has no handler with id '4014'
+[812154:0619/222044.042360:ERROR:browser_main_loop.cc(278)] GLib-GObject: ../../../gobject/gsignal.c:2685: instance '0x32f4018ba010' has no handler with id '4289'
+Opening in existing browser session.
