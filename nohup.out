@@ -20,3 +20,15 @@ Opening in existing browser session.
 [812154:0619/222041.530034:ERROR:browser_main_loop.cc(278)] GLib-GObject: ../../../gobject/gsignal.c:2685: instance '0x32f4018ba010' has no handler with id '4014'
 [812154:0619/222044.042360:ERROR:browser_main_loop.cc(278)] GLib-GObject: ../../../gobject/gsignal.c:2685: instance '0x32f4018ba010' has no handler with id '4289'
 Opening in existing browser session.
+[90m[main 2025-06-20T01:56:13.728Z][0m Extension host with pid 818792 exited with code: 0, signal: unknown.
+[91m[main 2025-06-20T01:56:13.963Z][0m [UtilityProcess id: 1, type: fileWatcher, pid: 818793]: crashed with code 15 and reason 'killed'
+[90m[main 2025-06-21T18:20:17.028Z][0m updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/0.48.9/588af23060fd9dc0e1166d40f266a8a52da172b3d1fc7f10acbcc2bf664d5d0a/stable
+[90m[main 2025-06-21T18:20:17.030Z][0m update#setState idle
+[911685:0621/212019.917262:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+[911685:0621/212047.017234:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 2 times!
+[911685:0621/212047.024913:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 3 times!
+[90m[main 2025-06-21T18:20:47.031Z][0m update#setState checking for updates
+[90m[main 2025-06-21T18:20:47.198Z][0m update#setState ready
+[911637:0621/224328.137102:ERROR:browser_main_loop.cc(278)] Gdk: gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+[911637:0623/211626.499457:ERROR:atom_cache.cc(229)] Add chromium/from-privileged to kAtomsToCache
+[911637:0623/211628.981951:ERROR:browser_main_loop.cc(278)] GLib-GObject: ../../../gobject/gsignal.c:2685: instance '0x25c0339a550' has no handler with id '22714'
