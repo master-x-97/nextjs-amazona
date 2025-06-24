@@ -1,3 +1,42 @@
+const data = {
+      headerMenus: [
+    {
+      name: "Today's Deal",
+      href: '/search?tag=todays-deal',
+    },
+    {
+      name: 'New Arrivals',
+      href: '/search?tag=new-arrival',
+    },
+    {
+      name: 'Featured Products',
+      href: '/search?tag=featured',
+    },
+    {
+      name: 'Best Sellers',
+      href: '/search?tag=best-seller',
+    },
+    {
+      name: 'Browsing History',
+      href: '/#browsing-history',
+    },
+    {
+      name: 'Customer Service',
+      href: '/page/customer-service',
+    },
+    {
+      name: 'About Us',
+      href: '/page/about-us',
+    },
+    {
+      name: 'Help',
+      href: '/page/help',
+    },
+  ],
+}
+
+export default data
+
 // import { Data, IProductInput, IUserInput } from '@/types'
 // // import { toSlug } from './utils'
 // // import bcrypt from 'bcryptjs'
@@ -135,7 +174,7 @@
 //       province: 'NY',
 //       postalCode: '10008',
 //       country: 'USA',
-//       phone: '123-456-7890',
+//       phone: '123-456-7890',h
 //     },
 //     paymentMethod: 'Stripe',
 //     emailVerified: false,
